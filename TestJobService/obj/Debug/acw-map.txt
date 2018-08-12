@@ -1,0 +1,12 @@
+TestJobService.JobScedulerSample, TestJobService;TestJobService.JobSchedulerSample
+TestJobService.JobScedulerSample, TestJobService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;TestJobService.JobSchedulerSample
+TestJobService.JobScedulerSample;TestJobService.JobSchedulerSample
+TestJobService.JobSchedulerSample;TestJobService.JobSchedulerSample
+TestJobService.JobTask, TestJobService;md542cfc804c4f0976c0d655b5f8c2541b4.JobTask
+TestJobService.JobTask, TestJobService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542cfc804c4f0976c0d655b5f8c2541b4.JobTask
+TestJobService.JobTask;md542cfc804c4f0976c0d655b5f8c2541b4.JobTask
+testjobservice.JobTask;md542cfc804c4f0976c0d655b5f8c2541b4.JobTask
+TestJobService.MainActivity, TestJobService;md542cfc804c4f0976c0d655b5f8c2541b4.MainActivity
+TestJobService.MainActivity, TestJobService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542cfc804c4f0976c0d655b5f8c2541b4.MainActivity
+TestJobService.MainActivity;md542cfc804c4f0976c0d655b5f8c2541b4.MainActivity
+testjobservice.MainActivity;md542cfc804c4f0976c0d655b5f8c2541b4.MainActivity
